@@ -7,7 +7,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+## Algorithm:
 1.Import and Load Data: Import necessary libraries (pandas, sklearn) and load the employee churn dataset.
 
 2.Preprocess Data: Handle missing values, encode categorical variables, and separate features (X) and target (y).
